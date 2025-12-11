@@ -1,3 +1,8 @@
+
+## Authors
+
+- **BENDAHMAN Meryem**
+- **FLICHY Astrid**
 # Air Quality ML Pipeline
 
 A machine learning pipeline for air quality prediction using time-series data with geographic features.
